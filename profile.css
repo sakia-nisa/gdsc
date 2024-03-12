@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
 }
 header {
-    background-image: url('img/bg.png'); 
+    background-image: url('img/bg.jpg'); 
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -153,13 +153,13 @@ span {
   background-color: rgba(56, 54, 54, 0.295);
 }  
 #marketing {
-  background-image: url('img/kantin.png');
+  background-image: url('https://images.pexels.com/photos/205961/pexels-photo-205961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 }   
 #technology {
-  background-image: url('img/kolam\ \(1\).png');
+  background-image: url('https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHN3aW1taW5nJTIwcG9vbHxlbnwwfHwwfHx8MA%3D%3D');
 }  
 #advertising {
-  background-image: url('img/spa.png');
+  background-image: url('https://images.pexels.com/photos/3188/love-romantic-bath-candlelight.jpg?auto=compress&cs=tinysrgb&w=600');
 }
 .deks-fasility {
   text-align: center;
